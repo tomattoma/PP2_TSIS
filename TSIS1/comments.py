@@ -1,4 +1,3 @@
-
 itoshi=18 
 bachira=17
 

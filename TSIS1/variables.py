@@ -1,4 +1,3 @@
-
 a=4 #int
 b="santa" #str
 
