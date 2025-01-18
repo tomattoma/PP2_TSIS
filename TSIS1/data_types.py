@@ -5,4 +5,4 @@ killua=["one","two","three"]
 print(type(killua))
 
 lol=True
-print(type(lol))
+print(type(lol)) 

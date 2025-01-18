@@ -1,6 +1,7 @@
-tanjiro=10
+tanjiro=101
 muzan=7
-rengoku=100 #rengoku will always be the bestttt 
+rengoku=100 #lalala
+"""rengoku will always be the bestttt """
 
 if tanjiro > muzan:
     print("tanjiro wiiin")

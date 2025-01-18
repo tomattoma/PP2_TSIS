@@ -8,4 +8,4 @@ print((itoshi+bachira)*2) #thats 70
 if itoshi==10:
     print("Its impossible")
 else:
-    print("hello world")
+    print("hello world") 
