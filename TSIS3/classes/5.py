@@ -1,4 +1,5 @@
 class Bank_account:
+    
     def __init__(self, owner, balance):
         self.owner = owner
         self.balance = balance
@@ -6,7 +7,10 @@ class Bank_account:
     def deposits(self,money):
         self.balance+=money 
         print(f"Money talks! You have {self.balance} money in your account")
+
+
     def withdrawals(self,money):
+
         if self.balance > money:
             print(f"{money} money withdrawn, account balance {self.balance-money}")
         else:
