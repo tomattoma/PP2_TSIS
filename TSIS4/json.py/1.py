@@ -7,7 +7,7 @@ with open("C:\\Users\Huawei\\Desktop\PP2_TSIS\\TSIS4\\json.py\\sample-data.json"
 object = data["imdata"]
 print()
 print(f"{'Interface Status'}")
-print("=" * 83)
+print("=" * 79)
 print(f"{'DN':<45} {'Description':<15} {'Speed':<9} {'MTU'}")
 print('-'*43,'','-'*13,' ', '-'*7, ' ', '-'*6)
 
