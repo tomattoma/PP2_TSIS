@@ -55,6 +55,7 @@ while not done:
     if pos is not None:
         worm.increase(pos)
         score += 10  # Увеличиваем счет на 10 за каждую съеденную еду
+        
         if len(worm.points) % 3 == 0:
             wall.next_level()
             level += 1
